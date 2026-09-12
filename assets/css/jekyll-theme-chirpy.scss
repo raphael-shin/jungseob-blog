@@ -1,0 +1,10 @@
+---
+---
+@use 'main';
+
+body { font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif; }
+.content { font-size: 1.05rem; line-height: 1.95; word-break: keep-all; overflow-wrap: anywhere; }
+.content p { margin-bottom: 1.4em; }
+h1, h2, h3 { word-break: keep-all; overflow-wrap: anywhere; }
+.content pre { overflow-x: auto; word-break: normal; overflow-wrap: normal; }
+@media (max-width: 576px) { .content { font-size: 1rem; line-height: 1.9; } h1 { font-size: 1.7rem; line-height: 1.45; } }

@@ -1,0 +1,3 @@
+# Blog publishing
+
+Source notes remain outside this repository. Import only files explicitly listed in publishing/selection.json with publish:true. Never scan or copy the entire vault. scripts/import_notes.py preserves the body except the redundant first H1; source author is not the blog author. Dates and stable slugs must survive subsequent imports. Run importer tests and a production Jekyll build before pushing. The daily automation and Hermes mail are separate and must not be changed as part of site work. New local attachments and wiki links must be resolved before importing; fail rather than silently breaking links.
