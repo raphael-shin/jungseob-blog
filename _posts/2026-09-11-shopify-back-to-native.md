@@ -16,6 +16,9 @@ source_author: Mustafa Ali (Shopify)
 source_published: '2026-09-10'
 published: true
 render_with_liquid: false
+image:
+  path: https://cdn.shopify.com/b/shopify-brochure2-assets/74f109ae9b0c3034a78a3b63294ae2e6.png
+  alt: 원문 대표 이미지 · Native is now the future of mobile at Shopify
 ---
 
 ## TL;DR

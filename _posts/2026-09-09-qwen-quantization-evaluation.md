@@ -15,6 +15,10 @@ source_author: Piotr Migdał
 source_published: '2026-08-26'
 published: true
 render_with_liquid: false
+image:
+  path: https://quesma.com/_astro/thumbnail.B4Hy1R5v.png
+  alt: '원문 대표 이미지 · Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit
+    collapses'
 ---
 
 ## TL;DR

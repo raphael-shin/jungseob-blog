@@ -16,6 +16,9 @@ source_author: Bartosz Kotrys, Jacek Migdal (Quesma)
 source_published: '2026-09-11'
 published: true
 render_with_liquid: false
+image:
+  path: https://quesma.com/_astro/rtk-terminal-bench-verdict-wide.Cx7zyGD2.png
+  alt: 원문 대표 이미지 · RTK reports huge token savings, but our cost benchmarks disagree
 ---
 
 ## TL;DR

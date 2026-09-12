@@ -39,3 +39,11 @@ main에 push하면 GitHub Actions가 빌드, 내부 링크 검사, GitHub Pages 
 ## 테마
 
 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)와 [공식 Starter](https://github.com/cotes2020/chirpy-starter)를 기반으로 합니다. 테마와 시작 코드의 MIT 라이선스는 LICENSE에 보존했습니다. 게시글의 원문 출처는 각 글의 Source를 참고하세요.
+
+## 원문 대표 이미지와 한글 폰트
+
+가져오기 도구는 원문의 `og:image`, Twitter 이미지, 대표 썸네일 순으로 접근 가능한 이미지를 찾습니다. 이미지가 있으면 제목 위와 목록 카드에 표시하고, 없으면 생략합니다. 원격 이미지 URL만 참조하며 이미지를 저장소에 복제하지 않습니다. 출처에서 이미지를 삭제하거나 외부 표시를 차단하면 표시되지 않을 수 있습니다.
+
+결과는 `publishing/source-images.json`에 보관합니다. `--refresh-images`로 다시 확인할 수 있습니다. 본문과 원본 노트는 변경하지 않습니다.
+
+한글 폰트는 Google Fonts의 Noto Sans KR이며, `assets/css/jekyll-theme-chirpy.scss`와 `_includes/head.html`에서 바꿀 수 있습니다. 폰트 로딩 전에는 시스템 한글 폰트로 표시합니다.
