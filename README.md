@@ -46,4 +46,4 @@ main에 push하면 GitHub Actions가 빌드, 내부 링크 검사, GitHub Pages 
 
 결과는 `publishing/source-images.json`에 보관합니다. `--refresh-images`로 다시 확인할 수 있습니다. 본문과 원본 노트는 변경하지 않습니다.
 
-한글 폰트는 Google Fonts의 Noto Sans KR이며, `assets/css/jekyll-theme-chirpy.scss`와 `_includes/head.html`에서 바꿀 수 있습니다. 폰트 로딩 전에는 시스템 한글 폰트로 표시합니다.
+한글 폰트는 을유문화사 공식 배포본의 을유1945 Regular/SemiBold이며, `assets/css/jekyll-theme-chirpy.scss`와 `_includes/head.html`에서 바꿀 수 있습니다. 공식 WOFF2 파일을 변경 없이 사용하며, 폰트 로딩 전에는 시스템 명조 글꼴로 표시합니다. 서체의 출처와 별도 이용 조건은 `assets/fonts/eulyoo1945/NOTICE.md`에 보존합니다.
