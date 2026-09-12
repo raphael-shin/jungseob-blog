@@ -1,5 +1,9 @@
 ---
 ---
+@use 'abstracts/variables' with (
+  $font-family-base: ('Eulyoo1945', 'Batang', serif),
+  $font-family-heading: ('Eulyoo1945', 'Batang', serif)
+);
 @use 'main.bundle';
 
 @font-face {
@@ -30,3 +34,5 @@ header .preview-img { object-fit: contain; max-height: 520px; }
 .content { font-weight: 400; }
 .site-subtitle { font-style: normal; }
 h1, h2, h3, h4, h5, .site-title { font-weight: 600; }
+
+#topbar-title, .pagination, #archives .date { font-family: "Eulyoo1945", "Batang", serif; }
