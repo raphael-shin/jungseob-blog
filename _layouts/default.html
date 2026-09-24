@@ -1,0 +1,107 @@
+---
+layout: compress
+---
+
+<!doctype html>
+
+{% include origin-type.html %}
+
+{% include lang.html %}
+
+<!-- `site.alt_lang` can specify a language different from the UI -->
+<html
+  lang="{{ page.lang | default: site.alt_lang | default: site.lang }}"
+  {%- if site.theme_mode == 'light' or site.theme_mode == 'dark' -%}
+    data-bs-theme="{{ site.theme_mode }}"
+  {%- endif -%}
+>
+  {% include head.html lang=lang %}
+
+  <body class="editorial-site layout-{{ page.layout }}">
+    <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>
+    <header class="site-masthead">
+      <a class="wordmark" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <nav aria-label="주 메뉴">
+        <a href="{{ '/' | relative_url }}">최신 글</a>
+        <a href="{{ '/categories/' | relative_url }}">카테고리</a>
+        <a href="{{ '/tags/' | relative_url }}">태그</a>
+        <a href="{{ '/archives/' | relative_url }}">아카이브</a>
+      </nav>
+    </header>
+    {% if page.layout == 'home' %}
+    <section class="journal-hero" aria-labelledby="journal-title">
+      <div class="hero-horizon" aria-hidden="true"></div>
+      <div class="hero-copy">
+        <p class="eyebrow">기술과 생각의 기록</p>
+        <h1 id="journal-title">읽고, 이해하고,<br>연결합니다.</h1>
+        <p class="hero-description">AI와 소프트웨어, 그리고 일하는 방식.<br>원문에서 출발해 깊이 있게 살펴봅니다.</p>
+        <a class="hero-link" href="#main-content"><span>최근 지식 노트</span><span aria-hidden="true">↓</span></a>
+      </div>
+    </section>
+    {% endif %}
+
+    <div id="main-wrapper" class="d-flex justify-content-center">
+      <div class="container d-flex flex-column px-xxl-5">
+        {% include topbar.html lang=lang %}
+
+        <div class="row flex-grow-1">
+          <main id="main-content" aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            {% if layout.layout == 'default' %}
+              {% include refactor-content.html content=content lang=lang %}
+            {% else %}
+              {{ content }}
+            {% endif %}
+          </main>
+
+          <!-- panel -->
+          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+            <div class="access">
+              {% include_cached update-list.html lang=lang %}
+              {% include_cached trending-tags.html lang=lang %}
+            </div>
+
+            {% for _include in layout.panel_includes %}
+              {% assign _include_path = _include | append: '.html' %}
+              {% include {{ _include_path }} lang=lang %}
+            {% endfor %}
+          </aside>
+        </div>
+
+        <div class="row">
+          <!-- tail -->
+          <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            {% for _include in layout.tail_includes %}
+              {% assign _include_path = _include | append: '.html' %}
+              {% include {{ _include_path }} lang=lang %}
+            {% endfor %}
+
+            {% include_cached footer.html lang=lang %}
+          </div>
+        </div>
+
+        {% include_cached search-results.html lang=lang %}
+      </div>
+
+      <aside aria-label="Scroll to Top">
+        <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow">
+          <i class="fas fa-angle-up"></i>
+        </button>
+      </aside>
+    </div>
+
+    <div id="mask" class="d-none position-fixed w-100 h-100 z-1"></div>
+
+    {% if site.pwa.enabled %}
+      {% include_cached notification.html lang=lang %}
+    {% endif %}
+
+    <!-- Embedded scripts -->
+
+    {% for _include in layout.script_includes %}
+      {% assign _include_path = _include | append: '.html' %}
+      {% include {{ _include_path }} %}
+    {% endfor %}
+
+    {% include_cached search-loader.html lang=lang %}
+  </body>
+</html>
