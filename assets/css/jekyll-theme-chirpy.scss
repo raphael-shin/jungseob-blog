@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, .site-title { font-weight: 600; }
 .skip-link { position: absolute; left: 20px; top: -100px; z-index: 100; background: #fff; padding: 12px; }
 .skip-link:focus { top: 12px; }
 .journal-hero { position: relative; isolation: isolate; overflow: hidden; min-height: 580px; display: grid; place-items: center; color: #f7f3e8; background: #171a19; margin: 0; }
-.hero-horizon { position: absolute; inset: 0; z-index: -1; background: linear-gradient(90deg, #d7ae56 0 3%, transparent 3% 97%, #a24e37 97%), linear-gradient(177deg, #101e27 3%, #294d68 28%, #7290a1 42%, #d1a17b 51%, #c2663e 55%, #242622 59%, #141918 83%); }
+.hero-horizon { position: absolute; inset: 0; z-index: -1; background: linear-gradient(177deg, #101e27 3%, #294d68 28%, #7290a1 42%, #d1a17b 51%, #c2663e 55%, #242622 59%, #141918 83%); }
 .hero-horizon::after { content: ''; position: absolute; inset: 0; opacity: .12; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23fff' filter='url(%23n)' opacity='.6' d='M0 0h180v180H0z'/%3E%3C/svg%3E"); }
 .hero-copy { text-align: center; padding: 65px 28px 48px; width: min(100%, 860px); }
 .eyebrow { font-size: .75rem; letter-spacing: .18em; margin-bottom: 28px; }
@@ -75,11 +75,12 @@ h1, h2, h3, h4, h5, .site-title { font-weight: 600; }
 .layout-home main, .layout-home #tail-wrapper { width: 100%; }
 .layout-home #panel-wrapper { display: none; }
 #post-list { margin-top: 0; }
-#post-list .card { border: 0; border-bottom: 1px solid var(--main-border-color); border-radius: 0; box-shadow: none; background: transparent; margin-bottom: 0; }
+#post-list .card { border: 0; border-radius: 0; box-shadow: none; background: transparent; margin-bottom: 0; }
 #post-list .card .card-body { padding: 30px 0; }
 #post-list .card .card-title { font-size: clamp(1.3rem, 2.3vw, 1.85rem); font-weight: 550; letter-spacing: -.035em; line-height: 1.45; }
 #post-list .card .card-text { font-size: 1rem; line-height: 1.75; color: #66675e; }
-#post-list .post-preview { padding: 12px 0; }
+#post-list .post-preview { padding: 12px 0; border: 0; border-radius: 0; box-shadow: none; background: transparent; }
+#post-list .post-preview::before { content: none; }
 #post-list .post-preview > .col-md-5 { padding: 24px 0 24px 32px; }
 #post-list .post-preview img { border-radius: 3px; object-fit: cover; }
 #post-list .post-meta { font-size: .78rem; letter-spacing: .01em; }
