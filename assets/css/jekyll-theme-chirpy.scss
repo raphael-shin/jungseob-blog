@@ -114,3 +114,18 @@ a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid 
   .layout-post main > article > header { margin-bottom: 28px; }
   .content { font-size: 1.025rem; line-height: 1.9; }
 }
+
+// Home search lives alongside the primary navigation.
+.layout-home .site-masthead nav { margin-left: auto; }
+.layout-home .site-masthead #topbar-wrapper { height: 38px; border: 0; width: 220px; }
+.layout-home .site-masthead #breadcrumb,
+.layout-home .site-masthead #topbar-title { display: none !important; }
+.layout-home .site-masthead #search { margin-left: 0 !important; width: 100%; }
+@media (max-width: 849px) {
+  .layout-home .site-masthead { flex-wrap: wrap; }
+  .layout-home .site-masthead #topbar-wrapper { width: 100%; }
+  .layout-home .site-masthead #search-trigger { margin-left: auto; }
+}
+@media (max-width: 576px) {
+  .layout-home .site-masthead nav { margin-left: 0; }
+}
