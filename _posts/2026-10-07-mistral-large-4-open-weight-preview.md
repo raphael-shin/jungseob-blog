@@ -20,7 +20,7 @@ tags:
   - knowledge
   - blog
   - AI
-  - llm
+  - LLM
   - web
 ---
 
