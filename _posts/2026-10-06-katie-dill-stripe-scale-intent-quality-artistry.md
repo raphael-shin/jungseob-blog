@@ -70,4 +70,4 @@ Stripe의 실험담도 있다. 디자인 문서를 이해하는 MCP로 시작했
 
 ## 참고 자료
 
-[Lenny's Podcast — How to scale intent, quality, and artistry with AI | Katie Dill (Stripe) (YouTube)](https://www.youtube.com/watch?v=GLvFTMtw4Jk) — 영어 자동 자막 전체(약 22분)를 읽고 정리했다.
+[Lenny's Podcast — How to scale intent, quality, and artistry with AI, Katie Dill (Stripe) (YouTube)](https://www.youtube.com/watch?v=GLvFTMtw4Jk) — 영어 자동 자막 전체(약 22분)를 읽고 정리했다.

@@ -80,4 +80,4 @@ AI 시대에 그는 폭넓은 학습과 소프트 스킬을 권한다. 규칙이
 
 ## 참고 자료
 
-[Ryan Peterman — Amazon VP: Questions On Corporate Politics But They Get Increasingly Darker | Ethan Evans (YouTube)](https://youtu.be/KhjhRRz3VJw) — 영어 자동 자막 전체(약 3시간 8분)를 읽고 정리했다.
+[Ryan Peterman — Amazon VP: Questions On Corporate Politics But They Get Increasingly Darker, Ethan Evans (YouTube)](https://youtu.be/KhjhRRz3VJw) — 영어 자동 자막 전체(약 3시간 8분)를 읽고 정리했다.
