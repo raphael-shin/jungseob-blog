@@ -20,7 +20,7 @@ tags:
   - knowledge
   - blog
   - 스타트업
-  - YouTube
+  - youtube
   - 인터뷰
 ---
 
