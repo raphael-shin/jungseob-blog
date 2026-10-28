@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f1e8"/>
+  <rect x="64" y="64" width="104" height="104" rx="25" fill="#252723"/>
+  <path d="M102 93h29M121 93v31c0 10-5 15-14 15-8 0-13-4-15-11" fill="none" stroke="#f5f1e8" stroke-width="8" stroke-linecap="round"/>
+  <text x="64" y="330" fill="#252723" font-family="Helvetica Neue, Arial, sans-serif" font-size="86" font-weight="600" letter-spacing="-3">Jungseob's Note</text>
+  <text x="68" y="396" fill="#62675d" font-family="Apple SD Gothic Neo, sans-serif" font-size="32">지식 노트</text>
+  <path d="M64 491h1072" stroke="#d3d2c8" stroke-width="2"/>
+  <text x="68" y="552" fill="#62675d" font-family="Helvetica Neue, Arial, sans-serif" font-size="26">raphael-shin.github.io/jungseob-blog</text>
+</svg>

@@ -56,6 +56,9 @@ jobs:
             \-\-disable-external \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
+      - name: Verify sharing metadata
+        run: python3 scripts/check_social_metadata.py _site
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v5
         with:
