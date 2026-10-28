@@ -69,14 +69,14 @@ Schopenhauer의 인용은 『의지와 표상으로서의 세계』의 널리 �
 
 ## 참고 자료
 
-[Henrik Karlsson — How is music possible (2026-10-15)](https://www.henrikkarlsson.xyz/p/music) — Substack API로 본문과 각주 전체를 읽었다.
+[Henrik Karlsson: How is music possible (2026-10-15)](https://www.henrikkarlsson.xyz/p/music): Substack API로 본문과 각주 전체를 읽었다.
 
-[Annals of the New York Academy of Sciences — 북서 파키스탄 청취자의 화음 평가 (2021)](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.14655) — 서양 청취자의 장조 긍정 대 단조 부정 구분이 반대로 나타난다는 요약을 검색 발췌로 확인했다. 논문 본문은 읽지 못했다.
+[Annals of the New York Academy of Sciences: 북서 파키스탄 청취자의 화음 평가 (2021)](https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1111/nyas.14655): 서양 청취자의 장조 긍정 대 단조 부정 구분이 반대로 나타난다는 요약을 검색 발췌로 확인했다. 논문 본문은 읽지 못했다.
 
-[Schopenhauer — The World as Will and Idea](https://en.wikisource.org/wiki/Page:The_World_as_Will_and_Idea_-_Schopenhauer,_tr._Haldane_and_Kemp_-_Volume_1.djvu/375) — 음악이 의지 자체의 모사라는 대목을 검색 발췌로 확인했다.
+[Schopenhauer: The World as Will and Idea](https://en.wikisource.org/wiki/Page:The_World_as_Will_and_Idea_-_Schopenhauer,_tr._Haldane_and_Kemp_-_Volume_1.djvu/375): 음악이 의지 자체의 모사라는 대목을 검색 발췌로 확인했다.
 
-[William James — The Varieties of Religious Experience](https://goodreads.com/work/quotes/1751058-the-varieties-of-religious-experience-a-study-in-human-nature?page=2) — 인용문의 표현을 인용 모음 페이지로 확인했다.
+[William James: The Varieties of Religious Experience](https://goodreads.com/work/quotes/1751058-the-varieties-of-religious-experience-a-study-in-human-nature?page=2): 인용문의 표현을 인용 모음 페이지로 확인했다.
 
-[Jonathan Gorard — LessWrong 댓글, 자동 정리 증명과 공리계 탐색](https://www.lesswrong.com/posts/BKhMTi7kRohK3vJoC/thoughts-the-unreasonable-effectiveness-of-maths) — 2017년경 틀을 만들었다는 서술을 검색 발췌로 확인했다.
+[Jonathan Gorard: LessWrong 댓글, 자동 정리 증명과 공리계 탐색](https://www.lesswrong.com/posts/BKhMTi7kRohK3vJoC/thoughts-the-unreasonable-effectiveness-of-maths): 2017년경 틀을 만들었다는 서술을 검색 발췌로 확인했다.
 
-[BBC — Effect of tropospheric ducting on radio](https://www.bbc.co.uk/reception/help-guides/fmmw-radio/effect-of-tropospheric-ducting-on-radio) — 필자가 링크한 대류권 덕팅 설명 자료다. 열어 보지는 않았다.
+[BBC: Effect of tropospheric ducting on radio](https://www.bbc.co.uk/reception/help-guides/fmmw-radio/effect-of-tropospheric-ducting-on-radio): 필자가 링크한 대류권 덕팅 설명 자료다. 열어 보지는 않았다.

@@ -72,18 +72,18 @@ MicroVMs는 AWS가 2026년 6월에 발표했고 7월 10일 컴퓨트 블로그�
 
 ## 참고 자료
 
-[Alexy Grabov — What is going on with Lambda? (LinkedIn, 2026-10-24)](https://www.linkedin.com/pulse/what-going-lambda-alexy-grabov-plkne) — 본문 전체를 읽고 정리했다. 비교 표 이미지는 읽지 못했다.
+[Alexy Grabov: What is going on with Lambda? (LinkedIn, 2026-10-24)](https://www.linkedin.com/pulse/what-going-lambda-alexy-grabov-plkne): 본문 전체를 읽고 정리했다. 비교 표 이미지는 읽지 못했다.
 
-[AWS 뉴스 블로그 — Announcing AWS Lambda Web Functions (2026-10-12)](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/) — 세 형태, 128 동시 요청, CPU 계량, 배포 명령을 읽었다.
+[AWS 뉴스 블로그: Announcing AWS Lambda Web Functions (2026-10-12)](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/): 세 형태, 128 동시 요청, CPU 계량, 배포 명령을 읽었다.
 
-[AWS 컴퓨트 블로그 — Announcing Lambda MicroVMs (2026-07-10)](https://aws.amazon.com/blogs/compute/announcing-lambda-microvms-serverless-compute-environments-with-vm-level-isolation-and-near-instant-startup/) — 수명주기 제어, 이미지 빌드, HTTPS 엔드포인트를 읽었다.
+[AWS 컴퓨트 블로그: Announcing Lambda MicroVMs (2026-07-10)](https://aws.amazon.com/blogs/compute/announcing-lambda-microvms-serverless-compute-environments-with-vm-level-isolation-and-near-instant-startup/): 수명주기 제어, 이미지 빌드, HTTPS 엔드포인트를 읽었다.
 
-[AWS What's New — Lambda MicroVMs](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/) — 최대 8시간 보존과 일시 정지·재개를 검색 발췌로 확인했다.
+[AWS What's New: Lambda MicroVMs](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/): 최대 8시간 보존과 일시 정지·재개를 검색 발췌로 확인했다.
 
-[AWS What's New — Lambda durable functions 한도 상향 (2026-10)](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/) — 3,000에서 30,000 연산, 256KB에서 1MB 체크포인트를 검색 발췌로 확인했다.
+[AWS What's New: Lambda durable functions 한도 상향 (2026-10)](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/): 3,000에서 30,000 연산, 256KB에서 1MB 체크포인트를 검색 발췌로 확인했다.
 
-[AWS Lambda FAQ](https://aws.amazon.com/lambda/faqs) — 세 형태, 다중 리전의 옵트인 성격, 15분과 90분 타임아웃 조건, 1년 내구 실행을 읽었다.
+[AWS Lambda FAQ](https://aws.amazon.com/lambda/faqs): 세 형태, 다중 리전의 옵트인 성격, 15분과 90분 타임아웃 조건, 1년 내구 실행을 읽었다.
 
-[AWS 문서 — Lambda Managed Instances](https://docs.aws.amazon.com/lambda/latest/dg/lambda-managed-instances.html) — EC2 현세대 인스턴스(Graviton4 포함)와 90분 조건을 검색 발췌로 확인했다.
+[AWS 문서: Lambda Managed Instances](https://docs.aws.amazon.com/lambda/latest/dg/lambda-managed-instances.html): EC2 현세대 인스턴스(Graviton4 포함)와 90분 조건을 검색 발췌로 확인했다.
 
-[AWS 뉴스 블로그 — Introducing AWS Lambda Managed Instances (2025-11-30)](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/) — 발표일을 검색 발췌로 확인했다.
+[AWS 뉴스 블로그: Introducing AWS Lambda Managed Instances (2025-11-30)](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/): 발표일을 검색 발췌로 확인했다.

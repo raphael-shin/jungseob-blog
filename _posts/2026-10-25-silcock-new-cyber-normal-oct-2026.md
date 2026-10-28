@@ -64,22 +64,22 @@ PingCAP는 갱신이 필요하다. 필자가 인용한 "TiDB에 저장된 데이
 
 ## 참고 자료
 
-[Drew Silcock — Is this the new cyber normal? (2026-10-23)](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) — 본문과 각주 전체를 읽고 정리했다.
+[Drew Silcock: Is this the new cyber normal? (2026-10-23)](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/): 본문과 각주 전체를 읽고 정리했다.
 
-[AWS 보안 블로그 — Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/) — 10월 17일 시도, 엠바고 시각, 분석을 읽었다.
+[AWS 보안 블로그: Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/): 10월 17일 시도, 엠바고 시각, 분석을 읽었다.
 
-[CVE Record — CVE-2026-109618](https://www.cve.org/CVERecord?id=CVE-2026-109618) — 게시일과 OOM 손상 설명을 검색 발췌로 확인했다.
+[CVE Record: CVE-2026-109618](https://www.cve.org/CVERecord?id=CVE-2026-109618): 게시일과 OOM 손상 설명을 검색 발췌로 확인했다.
 
-[Mozilla — Protecting Firefox users following the compromise of eMudhra intermediate certificates (2026-10-20)](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates) — 신고 시각과 8개 중간 인증서 차단을 검색 발췌로 확인했다.
+[Mozilla: Protecting Firefox users following the compromise of eMudhra intermediate certificates (2026-10-20)](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates): 신고 시각과 8개 중간 인증서 차단을 검색 발췌로 확인했다.
 
-[LiteLLM — Security incident Oct 21, 2026](https://docs.litellm.ai/blog/security-incident-oct-21-2026) — 악성 버전 노출 시간대와 정정 표기를 읽었다.
+[LiteLLM: Security incident Oct 21, 2026](https://docs.litellm.ai/blog/security-incident-oct-21-2026): 악성 버전 노출 시간대와 정정 표기를 읽었다.
 
-[Railway — Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) — 환경 변수 접근 서술을 검색 발췌로 확인했다.
+[Railway: Security Disclosure: Wednesday October 21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st): 환경 변수 접근 서술을 검색 발췌로 확인했다.
 
-[GitLab — Critical Patch Release 19.5.1 (2026-10-21)](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) — 긴급 패치 릴리스를 검색 발췌로 확인했다.
+[GitLab: Critical Patch Release 19.5.1 (2026-10-21)](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/): 긴급 패치 릴리스를 검색 발췌로 확인했다.
 
-[InfoQ — PingCAP Breach Exposes Customer Records and Source Code (2026-10-25)](https://infoq.com/news/2026/10/pingcap-cloud-data-breach) — PingCAP의 확인 범위와 FulcrumSec 주장을 읽었다.
+[InfoQ: PingCAP Breach Exposes Customer Records and Source Code (2026-10-25)](https://infoq.com/news/2026/10/pingcap-cloud-data-breach): PingCAP의 확인 범위와 FulcrumSec 주장을 읽었다.
 
-[Phoronix — Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List (2026-10-22)](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities) — ZDI 보고서의 공개 목록 게시를 검색 발췌로 확인했다.
+[Phoronix: Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List (2026-10-22)](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities): ZDI 보고서의 공개 목록 게시를 검색 발췌로 확인했다.
 
-[BMJ — NHS England 오픈소스 비공개화 보도 (2026-05-12)](https://www.bmj.com/content/393/bmj.s928) — 5월 11일 시행 정책과 AI 모델 우려를 검색 발췌로 확인했다.
+[BMJ: NHS England 오픈소스 비공개화 보도 (2026-05-12)](https://www.bmj.com/content/393/bmj.s928): 5월 11일 시행 정책과 AI 모델 우려를 검색 발췌로 확인했다.

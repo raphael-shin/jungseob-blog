@@ -95,14 +95,14 @@ gstack과의 대비가 영상의 뼈대다. gstack은 하나의 AI에게 CEO, �
 
 ## 참고 자료
 
-[김플립 - LLM 코딩 — 요즘 자꾸 뜨는 pstack 어설프게 말고 제대로 파헤쳐 보기 (YouTube, 2026-10-23)](https://youtu.be/u2oDdU6z4Bw) — 한국어 자동생성 자막 전체(24분 22초)와 설명란을 읽고 정리했다.
+[김플립 - LLM 코딩: 요즘 자꾸 뜨는 pstack 어설프게 말고 제대로 파헤쳐 보기 (YouTube, 2026-10-23)](https://youtu.be/u2oDdU6z4Bw): 한국어 자동생성 자막 전체(24분 22초)와 설명란을 읽고 정리했다.
 
-[cursor/plugins — pstack README](https://github.com/cursor/plugins/blob/main/pstack/README.md) — 설치, 기본 모델 패널, 플레이북 23개, 철학을 직접 읽었다.
+[cursor/plugins: pstack README](https://github.com/cursor/plugins/blob/main/pstack/README.md): 설치, 기본 모델 패널, 플레이북 23개, 철학을 직접 읽었다.
 
-[cursor/plugins — pstack 스킬 디렉터리와 poteto-mode, create-verification-skill](https://github.com/cursor/plugins/tree/main/pstack/skills) — 스킬 58개, 원칙 24개, 서브에이전트 2개, 단어 수, 답변 규칙, 호출 제한 설정을 직접 읽었다.
+[cursor/plugins: pstack 스킬 디렉터리와 poteto-mode, create-verification-skill](https://github.com/cursor/plugins/tree/main/pstack/skills): 스킬 58개, 원칙 24개, 서브에이전트 2개, 단어 수, 답변 규칙, 호출 제한 설정을 직접 읽었다.
 
-[cursor/plugins — Claude Code 어댑터 문서](https://github.com/cursor/plugins/blob/main/pstack/docs/harness/claude-code.md) — 비 Claude 모델 슬러그를 세션 모델로 돌리는 규칙을 직접 읽었다.
+[cursor/plugins: Claude Code 어댑터 문서](https://github.com/cursor/plugins/blob/main/pstack/docs/harness/claude-code.md): 비 Claude 모델 슬러그를 세션 모델로 돌리는 규칙을 직접 읽었다.
 
-[garrytan/gstack (GitHub)](https://github.com/garrytan/gstack/) — CEO, 디자이너, 엔지니어링 매니저, QA 등 역할 스킬 모음이라는 설명을 검색 결과 발췌로 확인했다.
+[garrytan/gstack (GitHub)](https://github.com/garrytan/gstack/): CEO, 디자이너, 엔지니어링 매니저, QA 등 역할 스킬 모음이라는 설명을 검색 결과 발췌로 확인했다.
 
-[Reuters — SpaceX to buy Anysphere for $60 billion (2026-06-16)](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) — 인수 계약 보도를 검색 결과 발췌로 확인했다. 완료일 8월 14일은 다른 보도 요약으로 확인했다.
+[Reuters: SpaceX to buy Anysphere for $60 billion (2026-06-16)](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/): 인수 계약 보도를 검색 결과 발췌로 확인했다. 완료일 8월 14일은 다른 보도 요약으로 확인했다.

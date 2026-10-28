@@ -64,14 +64,14 @@ Cohere는 Rerank 5 Pro가 ViDoRe V3, nanoMTEB, BRIGHT, BEIR 같은 공개 벤치
 
 ## 참고 자료
 
-[Cohere — Introducing Rerank 5 (2026-10-21)](https://cohere.com/blog/rerank-5) — 발표 글 전체를 읽고 정리했다. 표와 차트의 세부 수치는 본문 서술로만 읽었다.
+[Cohere: Introducing Rerank 5 (2026-10-21)](https://cohere.com/blog/rerank-5): 발표 글 전체를 읽고 정리했다. 표와 차트의 세부 수치는 본문 서술로만 읽었다.
 
-[Cohere 문서 — Rerank v5 변경 기록](https://docs.cohere.com/changelog/rerank-v5) — Context Focus와 보정 점수 안내를 검색 발췌로 확인했다.
+[Cohere 문서: Rerank v5 변경 기록](https://docs.cohere.com/changelog/rerank-v5): Context Focus와 보정 점수 안내를 검색 발췌로 확인했다.
 
-[Cohere — RCP-nDCG@10 소개 (2026-09-30)](https://cohere.com/blog/rcp-ndcg) — 지표의 동기를 검색 발췌로 확인했다.
+[Cohere: RCP-nDCG@10 소개 (2026-09-30)](https://cohere.com/blog/rcp-ndcg): 지표의 동기를 검색 발췌로 확인했다.
 
-[cohere-ai/rcp-ndcg (GitHub)](https://github.com/cohere-ai/rcp-ndcg) — LLM 판정과 문항 반응 모델 구조를 검색 발췌로 확인했다.
+[cohere-ai/rcp-ndcg (GitHub)](https://github.com/cohere-ai/rcp-ndcg): LLM 판정과 문항 반응 모델 구조를 검색 발췌로 확인했다.
 
-[MarkTechPost — Cohere Releases Rerank 5 (2026-10-22)](https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus) — 출시 보도와 에이전트 실험 수치를 검색 발췌로 확인했다.
+[MarkTechPost: Cohere Releases Rerank 5 (2026-10-22)](https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus): 출시 보도와 에이전트 실험 수치를 검색 발췌로 확인했다.
 
-[Voyage AI — rerank-3 and rerank-3-lite (2026-09-30)](https://blog.voyageai.com/2026/09/30/rerank-3/) — Cohere Rerank v4.0 Pro와의 비교 주장을 검색 발췌로 확인했다. 본문은 읽지 못했다.
+[Voyage AI: rerank-3 and rerank-3-lite (2026-09-30)](https://blog.voyageai.com/2026/09/30/rerank-3/): Cohere Rerank v4.0 Pro와의 비교 주장을 검색 발췌로 확인했다. 본문은 읽지 못했다.

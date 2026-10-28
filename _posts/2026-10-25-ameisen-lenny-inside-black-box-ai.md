@@ -88,18 +88,18 @@ Jev는 TypeSafe AI가 9월에 낸 빠른 결정 모델로, Fortune(10월 8일)�
 
 ## 참고 자료
 
-[Lenny's Podcast — Inside the black box of AI: How AI models actually think, Emmanuel Ameisen (YouTube, 2026-10-18)](https://youtu.be/JHo-aiePjoM) — 영어 자동생성 자막 전체(72분)를 읽고 정리했다. 광고 낭독은 제외했다.
+[Lenny's Podcast: Inside the black box of AI: How AI models actually think, Emmanuel Ameisen (YouTube, 2026-10-18)](https://youtu.be/JHo-aiePjoM): 영어 자동생성 자막 전체(72분)를 읽고 정리했다. 광고 낭독은 제외했다.
 
-[Anthropic — Tracing the thoughts of a large language model (2025-03)](https://www.anthropic.com/research/tracing-thoughts-language-model) — 공유 개념 공간, 시의 계획, rabbit과 habit 개입, Dallas 사례를 직접 읽었다.
+[Anthropic: Tracing the thoughts of a large language model (2025-03)](https://www.anthropic.com/research/tracing-thoughts-language-model): 공유 개념 공간, 시의 계획, rabbit과 habit 개입, Dallas 사례를 직접 읽었다.
 
-[Anthropic — A global workspace in language models (2026-07-06)](https://www.anthropic.com/research/global-workspace) — J-space의 정의와 용도, 의식에 대한 선긋기를 직접 읽었다.
+[Anthropic: A global workspace in language models (2026-07-06)](https://www.anthropic.com/research/global-workspace): J-space의 정의와 용도, 의식에 대한 선긋기를 직접 읽었다.
 
-[MIT Technology Review — Anthropic found a hidden space where Claude puzzles over concepts (2026-07-09)](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts) — J-space 감시가 완전하지 않다는 평가를 검색 발췌로 확인했다.
+[MIT Technology Review: Anthropic found a hidden space where Claude puzzles over concepts (2026-07-09)](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts): J-space 감시가 완전하지 않다는 평가를 검색 발췌로 확인했다.
 
-[aireflects — Claude Opus 4.6 system card, part II](https://aireflects.com/2026/02/08/claude-opus-4-6-system-card-part-ii) — 시스템 카드의 answer thrashing 서술을 검색 발췌로 확인했다. 시스템 카드 원문은 읽지 못했다.
+[aireflects: Claude Opus 4.6 system card, part II](https://aireflects.com/2026/02/08/claude-opus-4-6-system-card-part-ii): 시스템 카드의 answer thrashing 서술을 검색 발췌로 확인했다. 시스템 카드 원문은 읽지 못했다.
 
-[Fortune — Jev, an AI for making quick decisions (2026-10-08)](https://fortune.com/2026/10/08/jev-an-ai-for-making-quick-decisions-has-been-a-viral-hit-in-silicon-valley-but-openai-is-hot-on-its-heels/) — Jev의 9월 출시와 OpenAI의 경쟁 움직임을 검색 발췌로 확인했다.
+[Fortune: Jev, an AI for making quick decisions (2026-10-08)](https://fortune.com/2026/10/08/jev-an-ai-for-making-quick-decisions-has-been-a-viral-hit-in-silicon-valley-but-openai-is-hot-on-its-heels/): Jev의 9월 출시와 OpenAI의 경쟁 움직임을 검색 발췌로 확인했다.
 
-[TechCrunch — OpenAI makes its Jev competitor widely available (2026-10-22)](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/) — OpenAI Decisions API의 일반 공개를 검색 발췌로 확인했다.
+[TechCrunch: OpenAI makes its Jev competitor widely available (2026-10-22)](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/): OpenAI Decisions API의 일반 공개를 검색 발췌로 확인했다.
 
-[Emmanuel Ameisen — 소개 페이지](https://www.mlpowered.com/about/) — Anthropic 해석가능성 팀, Stripe 경력을 검색 발췌로 확인했다.
+[Emmanuel Ameisen: 소개 페이지](https://www.mlpowered.com/about/): Anthropic 해석가능성 팀, Stripe 경력을 검색 발췌로 확인했다.

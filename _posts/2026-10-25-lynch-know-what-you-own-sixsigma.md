@@ -67,16 +67,16 @@ Lynch 본인의 경험은 1987년이다. 1994년 강연에서 그는 아내와 �
 
 ## 참고 자료
 
-[Six Sigma · 식스시그마 — 피터 린치 "겁먹고 팔지 마라"보다 중요하다고 직접 말한 한 가지 (YouTube, 2026-10-24)](https://youtu.be/SjxqlvBFyLg) — 영어 클립 자막 전체(7:34)와 설명란을 읽었다. 한국어 내레이션은 자막에 없어 읽지 못했다.
+[Six Sigma · 식스시그마: 피터 린치 "겁먹고 팔지 마라"보다 중요하다고 직접 말한 한 가지 (YouTube, 2026-10-24)](https://youtu.be/SjxqlvBFyLg): 영어 클립 자막 전체(7:34)와 설명란을 읽었다. 한국어 내레이션은 자막에 없어 읽지 못했다.
 
-[The Compound and Friends — How Peter Lynch Became The Greatest Fund Manager Of All Time (YouTube, 2025-10-03)](https://www.youtube.com/watch?v=YIlurDigZcY) — 영어 자동자막 전체(약 57분)에서 인용 대목을 앞뒤까지 읽고 대조했다.
+[The Compound and Friends: How Peter Lynch Became The Greatest Fund Manager Of All Time (YouTube, 2025-10-03)](https://www.youtube.com/watch?v=YIlurDigZcY): 영어 자동자막 전체(약 57분)에서 인용 대목을 앞뒤까지 읽고 대조했다.
 
-[Peter Lynch 내셔널 프레스클럽 강연 (YouTube, 1994-10-07 강연, 2020년 재업로드)](https://www.youtube.com/watch?v=rf_f8GV0yYM) — 영어 자동자막 전체(약 49분)에서 93년 통계, 1987년 일화, know what you own 대목을 읽었다.
+[Peter Lynch 내셔널 프레스클럽 강연 (YouTube, 1994-10-07 강연, 2020년 재업로드)](https://www.youtube.com/watch?v=rf_f8GV0yYM): 영어 자동자막 전체(약 49분)에서 93년 통계, 1987년 일화, know what you own 대목을 읽었다.
 
-[Time — Up, up, then doooown](https://time.com/archive/6711236/up-up-then-doooown) — 폭락일 Lynch가 아일랜드 킬라니에 있었다는 서술을 검색 발췌로 확인했다.
+[Time: Up, up, then doooown](https://time.com/archive/6711236/up-up-then-doooown): 폭락일 Lynch가 아일랜드 킬라니에 있었다는 서술을 검색 발췌로 확인했다.
 
-[Christian Science Monitor — Peter Lynch 인터뷰 (1987-12-08)](https://csmonitor.com/1987/1208/glynch.html) — Magellan이 한 주도 안 되는 사이 120억 달러 중 40억 달러 넘게 잃었다는 서술을 검색 발췌로 확인했다.
+[Christian Science Monitor: Peter Lynch 인터뷰 (1987-12-08)](https://csmonitor.com/1987/1208/glynch.html): Magellan이 한 주도 안 되는 사이 120억 달러 중 40억 달러 넘게 잃었다는 서술을 검색 발췌로 확인했다.
 
-[MUFG — Chart of the Day: We Will Probably Have an Equity Market Correction](https://www.mufgamericas.com/sites/default/files/document/2025-11/Chart-of-the-Day-We-Will-Probably-Have-an-Equity-Market-Correction.pdf) — 2차 대전 이후 10% 이상 조정 37번, 20% 이상 약세장 13번을 검색 발췌로 확인했다.
+[MUFG: Chart of the Day: We Will Probably Have an Equity Market Correction](https://www.mufgamericas.com/sites/default/files/document/2025-11/Chart-of-the-Day-We-Will-Probably-Have-an-Equity-Market-Correction.pdf): 2차 대전 이후 10% 이상 조정 37번, 20% 이상 약세장 13번을 검색 발췌로 확인했다.
 
-[The Motley Fool — The 3 Most Important Stock Market Crash Statistics (2020)](https://www.fool.com/investing/2020/10/10/the-3-most-important-stock-market-crash-statistics/) — 조정이 평균 약 1.84년마다 온다는 서술을 검색 발췌로 확인했다.
+[The Motley Fool: The 3 Most Important Stock Market Crash Statistics (2020)](https://www.fool.com/investing/2020/10/10/the-3-most-important-stock-market-crash-statistics/): 조정이 평균 약 1.84년마다 온다는 서술을 검색 발췌로 확인했다.

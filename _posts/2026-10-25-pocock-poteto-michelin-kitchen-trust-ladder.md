@@ -86,12 +86,12 @@ Cursor Projects는 실재한다. Cursor 변경 기록은 Projects가 기능, 마
 
 ## 참고 자료
 
-[Matt Pocock — LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX (YouTube, 2026-10-03)](https://www.youtube.com/watch?v=MN9dGgmLyso) — 영어 자동생성 자막 전체(65:36)를 읽고 정리했다.
+[Matt Pocock: LIVE: Poteto (creator of pstack) on shipping 1,000's of PR's a month at SpaceX (YouTube, 2026-10-03)](https://www.youtube.com/watch?v=MN9dGgmLyso): 영어 자동생성 자막 전체(65:36)를 읽고 정리했다.
 
-[Lauren Tan — X 글 "2500 PRs last month to production"](https://x.com/poteto/status/2102050467505430555) — 제목과 Cursor Compile 런던용 강연이라는 설명을 검색 결과 발췌로 확인했다.
+[Lauren Tan: X 글 "2500 PRs last month to production"](https://x.com/poteto/status/2102050467505430555): 제목과 Cursor Compile 런던용 강연이라는 설명을 검색 결과 발췌로 확인했다.
 
-[Cursor — Projects (변경 기록, 2026-09)](https://cursor.com/changelog/projects) — 조율 에이전트와 하위 에이전트 위임, 몇 달간의 맥락 유지를 검색 발췌로 확인했다.
+[Cursor: Projects (변경 기록, 2026-09)](https://cursor.com/changelog/projects): 조율 에이전트와 하위 에이전트 위임, 몇 달간의 맥락 유지를 검색 발췌로 확인했다.
 
-[Redreamality — Lauren Tan: trust before parallel](https://redreamality.com/blog/lauren-tan-poteto-trust-before-parallel/) — 강연 본문의 약 2,000개 병합 서술을 검색 발췌로 확인했다.
+[Redreamality: Lauren Tan: trust before parallel](https://redreamality.com/blog/lauren-tan-poteto-trust-before-parallel/): 강연 본문의 약 2,000개 병합 서술을 검색 발췌로 확인했다.
 
-[poteto/noodle (GitHub)](https://github.com/poteto/noodle) — 스킬로 에이전트를 오케스트레이션한다는 설명을 검색 결과 발췌로 확인했다.
+[poteto/noodle (GitHub)](https://github.com/poteto/noodle): 스킬로 에이전트를 오케스트레이션한다는 설명을 검색 결과 발췌로 확인했다.

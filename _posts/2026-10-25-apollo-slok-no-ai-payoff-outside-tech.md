@@ -55,4 +55,4 @@ Apollo가 2026년 10월 24일(차트 경로 기준)에 공개한 The Daily Spark
 
 ## 참고 자료
 
-[Apollo — No Signs of AI Payoff Outside the Tech Sector, The Daily Spark (2026-10-24)](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) — 본문 전체와 차트 이미지 다섯 장을 읽었다. 차트와 표에 출처 표기가 없다.
+[Apollo: No Signs of AI Payoff Outside the Tech Sector, The Daily Spark (2026-10-24)](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector): 본문 전체와 차트 이미지 다섯 장을 읽었다. 차트와 표에 출처 표기가 없다.

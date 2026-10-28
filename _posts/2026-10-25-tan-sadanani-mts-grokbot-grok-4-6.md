@@ -70,10 +70,10 @@ Grok Bot의 출시 시점과 기능(이름 붙은 봇, 자기 컴퓨터)은 앞�
 
 ## 참고 자료
 
-[MTS — Are Agents About to Replace Software Engineering? Lauren Tan and Roshan Sadanani (YouTube, 2026-08-13)](https://www.youtube.com/watch?v=A63sedG-p5Q) — 영어 자동생성 자막 전체(28:41)를 읽고 정리했다. 광고 낭독은 제외했고 화면 시연은 말로만 파악했다.
+[MTS: Are Agents About to Replace Software Engineering? Lauren Tan and Roshan Sadanani (YouTube, 2026-08-13)](https://www.youtube.com/watch?v=A63sedG-p5Q): 영어 자동생성 자막 전체(28:41)를 읽고 정리했다. 광고 낭독은 제외했고 화면 시연은 말로만 파악했다.
 
-[x.ai — Grok 4.6](https://x.ai/news/grok-4-6) — 벤치마크 표(CursorBench v3.2 등)와 가격을 검색 결과 발췌로 확인했다.
+[x.ai: Grok 4.6](https://x.ai/news/grok-4-6): 벤치마크 표(CursorBench v3.2 등)와 가격을 검색 결과 발췌로 확인했다.
 
-[aireiter — Grok 4.6 vs Fable 5](https://aireiter.com/blog/grok-4-6-vs-fable-5) — Extra High 70.8%, 과업당 2.81달러 대 17.32달러를 검색 결과 발췌로 확인했다.
+[aireiter: Grok 4.6 vs Fable 5](https://aireiter.com/blog/grok-4-6-vs-fable-5): Extra High 70.8%, 과업당 2.81달러 대 17.32달러를 검색 결과 발췌로 확인했다.
 
-[Analytics India Magazine — SpaceXAI launches Grok 4.6](https://analyticsindiamag.com/ai-news/spacexai-launches-grok-46-to-take-on-gpt-56-and-fable-5) — DeepSWE v1.1 수치와 가격을 검색 결과 발췌로 확인했다.
+[Analytics India Magazine: SpaceXAI launches Grok 4.6](https://analyticsindiamag.com/ai-news/spacexai-launches-grok-46-to-take-on-gpt-56-and-fable-5): DeepSWE v1.1 수치와 가격을 검색 결과 발췌로 확인했다.

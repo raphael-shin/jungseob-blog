@@ -74,26 +74,26 @@ operation loop는 이렇게 정의한다. 사업에서 매일 생기는 신호(�
 
 ## 참고 자료
 
-[AI Frontier Korea — EP 120. 가치는 어디로 가는가: AI 시장 조정, CoreWeave 위기와 operation loop (YouTube, 2026-10-25)](https://youtu.be/eO8brZguMpU) — 한국어 자막 전체(80분)를 읽고 정리했다. 화면의 도표는 보지 못했다.
+[AI Frontier Korea: EP 120. 가치는 어디로 가는가: AI 시장 조정, CoreWeave 위기와 operation loop (YouTube, 2026-10-25)](https://youtu.be/eO8brZguMpU): 한국어 자막 전체(80분)를 읽고 정리했다. 화면의 도표는 보지 못했다.
 
-[Sotkn — CoreWeave CDS 1,000 bp after Gartner neocloud forecast](https://sotkn.com/wire/coreweave-cds-1000-bp-gartner-neocloud-shakeout-wire) — 10월 15일 CDS 1,000bp 돌파를 검색 발췌로 확인했다.
+[Sotkn: CoreWeave CDS 1,000 bp after Gartner neocloud forecast](https://sotkn.com/wire/coreweave-cds-1000-bp-gartner-neocloud-shakeout-wire): 10월 15일 CDS 1,000bp 돌파를 검색 발췌로 확인했다.
 
-[Universeblend — CoreWeave AI infrastructure debt](https://universeblend.blog/coreweave-ai-infrastructure-debt) — 4월 17.5억 달러 9.75% 2031년 10월 만기 무담보 채권을 검색 발췌로 확인했다.
+[Universeblend: CoreWeave AI infrastructure debt](https://universeblend.blog/coreweave-ai-infrastructure-debt): 4월 17.5억 달러 9.75% 2031년 10월 만기 무담보 채권을 검색 발췌로 확인했다.
 
-[Pivotnews — CoreWeave credit risk hits record](https://pivotnews.ai/five/coreweave-credit-risk-hits-record-as-swaps-price-60) — 10월 15일 사상 최고 CDS와 2031년물 수익률 16% 근처를 검색 발췌로 확인했다.
+[Pivotnews: CoreWeave credit risk hits record](https://pivotnews.ai/five/coreweave-credit-risk-hits-record-as-swaps-price-60): 10월 15일 사상 최고 CDS와 2031년물 수익률 16% 근처를 검색 발췌로 확인했다.
 
-[Reuters via Investing.com — Short sellers pocket 6 billion in profits as neoclouds slide (2026-10-22)](https://www.investing.com/news/stock-market-news/short-sellers-pocket-6-billion-in-profits-as-neoclouds-slide-on-ai-debt-fears-4966395) — 공매도 평가이익 60억 달러를 검색 발췌로 확인했다.
+[Reuters via Investing.com: Short sellers pocket 6 billion in profits as neoclouds slide (2026-10-22)](https://www.investing.com/news/stock-market-news/short-sellers-pocket-6-billion-in-profits-as-neoclouds-slide-on-ai-debt-fears-4966395): 공매도 평가이익 60억 달러를 검색 발췌로 확인했다.
 
-[Reuters via The Hindu BusinessLine — Investors temper Anthropic IPO valuation expectations (2026-10-17)](https://www.thehindubusinessline.com/info-tech/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say/article71590936.ece) — 3분기 매출 168억 달러, 전 분기 대비 45%를 검색 발췌로 확인했다.
+[Reuters via The Hindu BusinessLine: Investors temper Anthropic IPO valuation expectations (2026-10-17)](https://www.thehindubusinessline.com/info-tech/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say/article71590936.ece): 3분기 매출 168억 달러, 전 분기 대비 45%를 검색 발췌로 확인했다.
 
-[Artificial Analysis — Kimi K3.1 Pro launch benchmarks](https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks) — GDPval-AA 3위, Opus 5.5 바로 아래라는 평가를 검색 발췌로 확인했다.
+[Artificial Analysis: Kimi K3.1 Pro launch benchmarks](https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks): GDPval-AA 3위, Opus 5.5 바로 아래라는 평가를 검색 발췌로 확인했다.
 
-[The Next Web — Moonshot Kimi K3.1 Pro (2026-10-23)](https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber) — 출시일과 11월 4일 가중치 공개 계획, 회사의 근접 주장을 검색 발췌로 확인했다.
+[The Next Web: Moonshot Kimi K3.1 Pro (2026-10-23)](https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber): 출시일과 11월 4일 가중치 공개 계획, 회사의 근접 주장을 검색 발췌로 확인했다.
 
-[Meta — Meta and Blue Owl Capital develop Hyperion data center (2025-10-21)](https://about.fb.com/news/2025/10/meta-blue-owl-capital-develop-hyperion-data-center) — Blue Owl 80%, Meta 20% 합작 구조를 검색 발췌로 확인했다.
+[Meta: Meta and Blue Owl Capital develop Hyperion data center (2025-10-21)](https://about.fb.com/news/2025/10/meta-blue-owl-capital-develop-hyperion-data-center): Blue Owl 80%, Meta 20% 합작 구조를 검색 발췌로 확인했다.
 
-[Brookings — The 10 trillion question: financing the AI buildout](https://www.brookings.edu/articles/the-10-trillion-question-financing-the-ai-buildout/) — Hyperion의 임대 갱신 보증 구조 설명을 검색 발췌로 확인했다.
+[Brookings: The 10 trillion question: financing the AI buildout](https://www.brookings.edu/articles/the-10-trillion-question-financing-the-ai-buildout/): Hyperion의 임대 갱신 보증 구조 설명을 검색 발췌로 확인했다.
 
-[Yahoo Finance — Banks arranged 38 billion in AI debt, finding buyers took months](https://finance.yahoo.com/technology/ai/articles/banks-arranged-38-billion-ai-152113770.html) — Oracle 관련 은행 대출의 인수자 탐색 지연을 검색 발췌로 확인했다.
+[Yahoo Finance: Banks arranged 38 billion in AI debt, finding buyers took months](https://finance.yahoo.com/technology/ai/articles/banks-arranged-38-billion-ai-152113770.html): Oracle 관련 은행 대출의 인수자 탐색 지연을 검색 발췌로 확인했다.
 
-[a16z — The trillion dollar AI software development stack](https://a16z.com/the-trillion-dollar-ai-software-development-stack/) — 3천만 명의 개발자 수치를 검색 발췌로 확인했다.
+[a16z: The trillion dollar AI software development stack](https://a16z.com/the-trillion-dollar-ai-software-development-stack/): 3천만 명의 개발자 수치를 검색 발췌로 확인했다.

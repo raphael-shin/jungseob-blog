@@ -68,14 +68,14 @@ Shinn은 Instinct에 응용 프로그램이 없다고 강조한다. 문자와 �
 
 ## 참고 자료
 
-[Invest Like The Best — The $10B AI Assistant Challenging Meta's Muse, Grok's Bots, and OpenAI's Dots (YouTube, 2026-09-28)](https://youtu.be/Am7IWP8IpEc) — 영어 자동생성 자막 전체(85분)를 읽고 정리했다. 광고 낭독은 제외했다.
+[Invest Like The Best: The $10B AI Assistant Challenging Meta's Muse, Grok's Bots, and OpenAI's Dots (YouTube, 2026-09-28)](https://youtu.be/Am7IWP8IpEc): 영어 자동생성 자막 전체(85분)를 읽고 정리했다. 광고 낭독은 제외했다.
 
-[TechCrunch — Instinct founder said more than 50% of transactions on the platform are travel-related (2026-09-29)](https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/) — 거래의 50% 넘게가 여행이라는 서술을 검색 발췌로 확인했다.
+[TechCrunch: Instinct founder said more than 50% of transactions on the platform are travel-related (2026-09-29)](https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/): 거래의 50% 넘게가 여행이라는 서술을 검색 발췌로 확인했다.
 
-[Fortune — Noah Shinn, Instinct (2026-09-30)](https://fortune.com/2026/09/30/noah-shinn-instinct-ai-assistant-meta-muse-alexandr-wang-tech-series-c-ai-agent-mark-zuckerberg/) — 8월 2억 5천만 달러, 25억 달러 가치와 이번 시리즈 C를 검색 발췌로 확인했다.
+[Fortune: Noah Shinn, Instinct (2026-09-30)](https://fortune.com/2026/09/30/noah-shinn-instinct-ai-assistant-meta-muse-alexandr-wang-tech-series-c-ai-agent-mark-zuckerberg/): 8월 2억 5천만 달러, 25억 달러 가치와 이번 시리즈 C를 검색 발췌로 확인했다.
 
-[Tech-Quire — Instinct raises $1B Series C at $10B valuation](https://tech-quire.com/articles/instinct-1b-series-c-10b-valuation) — 9월 28일 발표, Sequoia·Benchmark·Coatue 투자를 검색 발췌로 확인했다.
+[Tech-Quire: Instinct raises $1B Series C at $10B valuation](https://tech-quire.com/articles/instinct-1b-series-c-10b-valuation): 9월 28일 발표, Sequoia·Benchmark·Coatue 투자를 검색 발췌로 확인했다.
 
-[Dealroom — Noah Shinn: Instinct compounding at 10% a day](https://app.dealroom.co/news/note/noah-shinn-instinct-compounding-at-10-a-day-as-agents-go-mainstream) — 일간 10% 성장, 초대권, 재판매 가격 서술을 검색 발췌로 확인했다.
+[Dealroom: Noah Shinn: Instinct compounding at 10% a day](https://app.dealroom.co/news/note/noah-shinn-instinct-compounding-at-10-a-day-as-agents-go-mainstream): 일간 10% 성장, 초대권, 재판매 가격 서술을 검색 발췌로 확인했다.
 
-[Noah Shinn — 개인 소개](https://noahshinn.com/) — Sierra 연구자 경력을 검색 발췌로 확인했다.
+[Noah Shinn: 개인 소개](https://noahshinn.com/): Sierra 연구자 경력을 검색 발췌로 확인했다.

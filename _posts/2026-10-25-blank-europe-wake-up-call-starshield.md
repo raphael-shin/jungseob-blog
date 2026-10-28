@@ -55,16 +55,16 @@ Steve Blank가 2026년 10월 24일 자신의 블로그에 쓴 짧은 글이다. 
 
 ## 참고 자료
 
-[Steve Blank — Elon Musk Just Gave Europe a Reason to Replace American Technology (2026-10-24)](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) — 본문과 독자 댓글 전체를 읽었다.
+[Steve Blank: Elon Musk Just Gave Europe a Reason to Replace American Technology (2026-10-24)](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/): 본문과 독자 댓글 전체를 읽었다.
 
-[CNBC (Reuters 전재) — Order to limit Starshield for Ukraine came from inside White House (2026-10-16)](https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html) — 백악관 내부 지시 보도와 미국 관리의 부인을 읽었다.
+[CNBC (Reuters 전재): Order to limit Starshield for Ukraine came from inside White House (2026-10-16)](https://www.cnbc.com/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-reuters-reports.html): 백악관 내부 지시 보도와 미국 관리의 부인을 읽었다.
 
-[CNBC — Ukraine says Starlink, Starshield service restored (2026-10-24)](https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html) — 복구, 머스크의 약관 위반 주장, 트럼프의 확인을 읽었다.
+[CNBC: Ukraine says Starlink, Starshield service restored (2026-10-24)](https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html): 복구, 머스크의 약관 위반 주장, 트럼프의 확인을 읽었다.
 
-[Defense News — Ukrainian officials blame Pentagon for withholding life-saving intel (2026-10-15)](https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/) — 정보 공유 중단 주장과 트럼프의 부인을 읽었다.
+[Defense News: Ukrainian officials blame Pentagon for withholding life-saving intel (2026-10-15)](https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/): 정보 공유 중단 주장과 트럼프의 부인을 읽었다.
 
-[Reuters via Internazionale — Can Europe step in as Ukraine struggles with Starlink and US satellite data (2026-10-14)](https://www.internazionale.it/ultime-notizie-reuters/2026/10/14/as-ukraine-struggles-with-starlink-and-us-satellite-data-europe-has-no-quick-fix) — 유럽에 즉시 쓸 대안이 없다는 분석을 읽었다.
+[Reuters via Internazionale: Can Europe step in as Ukraine struggles with Starlink and US satellite data (2026-10-14)](https://www.internazionale.it/ultime-notizie-reuters/2026/10/14/as-ukraine-struggles-with-starlink-and-us-satellite-data-europe-has-no-quick-fix): 유럽에 즉시 쓸 대안이 없다는 분석을 읽었다.
 
-[Euronews — Palantir says NATO AI system has no kill switch (2026-10-22)](https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine) — Palantir의 안심 발언과 사건 요약을 읽었다.
+[Euronews: Palantir says NATO AI system has no kill switch (2026-10-22)](https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine): Palantir의 안심 발언과 사건 요약을 읽었다.
 
-[TVP World — WSJ 보도 요약 (머스크가 직접 지시)](https://tvpworld.com/96043034/elon-musk-ordered-starshield-slowdown-that-hit-ukrainian-drones-wall-street-journal-reports) — WSJ 보도의 요지를 검색 발췌로 확인했다. WSJ 원문은 읽지 못했다.
+[TVP World: WSJ 보도 요약 (머스크가 직접 지시)](https://tvpworld.com/96043034/elon-musk-ordered-starshield-slowdown-that-hit-ukrainian-drones-wall-street-journal-reports): WSJ 보도의 요지를 검색 발췌로 확인했다. WSJ 원문은 읽지 못했다.
