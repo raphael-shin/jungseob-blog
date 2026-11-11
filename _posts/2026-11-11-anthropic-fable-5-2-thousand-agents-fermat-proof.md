@@ -14,7 +14,7 @@ render_with_liquid: false
 categories: [지식 노트]
 description: "Anthropic의 Lance Martin이 claude.dev 블로그에 쓴 글을 정리한다. Claude Fable 5.2 초기 버전으로 돌린 에이전트 1,000개가, 전용 플랫폼이나 연구자의 지휘 없이 Git과 공유 SQL 데이터베이스만으로 페르마의 마지막 정리의 형식 증명을 28.7시간 만에 다시 해냈다. 9월 원래 작업보다 출력 토큰은 3분의 1, 증명 길이는 7분의 1이었다. 리더 에이전트는 첫 10분에 표 다섯 개로 조율 체계를 짰고, 가장 어려운 정리는 최대 10단계, 2,418개 작업의 나무로 쪼갰다. 인터넷 없는 샌드박스와 실시간·오프라인 감시라는 안전 장치도 함께 정리했다."
 image:
-  path: "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/og.png"
+  path: "/assets/img/posts/anthropic-fable-5-2-thousand-agents-fermat-proof.png"
   alt: "Safely scaling multi-agent teams with Claude Fable 5.2 대표 이미지"
 tags:
   - knowledge
