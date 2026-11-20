@@ -49,7 +49,7 @@ X 계정 Fireside Alpha가 한국 시간 2026년 11월 19일 올린 48.8초짜�
 
 ## 읽을 때 생각할 점
 
-49초짜리 클립이고 어떤 자리에서 어떤 질문에 답한 것인지 맥락이 없다. Grok 4.8의 일정, 조용한 출시의 범위, "세계 최고의 학습 스택"은 모두 xAI를 이끄는 머스크의 말이고 확인된 사실이 아니다. 출처 계정 Fireside Alpha는 발언 클립을 모아 올리는 계정이라 원본 영상의 출처도 게시물에 나오지 않는다.
+49초짜리 클립이고 어떤 자리에서 어떤 질문에 답한 것인지 맥락이 없다. Grok 4.8의 일정, 조용한 출시의 범위, "세계 최고의 학습 스택"은 모두 xAI를 이끄는 머스크의 말이고 확인된 사실이 아니다. 출처 계정 Fireside Alpha는 발언 클립을 모아 올리는 계정이라 원본 영상의 출처도 게시물에 나오지 않는다. 나중에 확인해 보니 두 클립의 말은 모두 [TomorrowX Summit 대담 노트](https://raphael-shin.github.io/jungseob-blog/posts/musk-tomorrowx-summit-glad-to-be-alive/)가 다룬 2026년 11월 19일 공개 영상의 자동 자막에 그대로 나온다. 조용한 출시, 데이터 플라이휠, 처음부터 다시 쓴 학습 스택, 6~8개월, C와 일부 C++ 같은 표현이다.
 
 그래도 이 발언에는 실무에서 짚어 볼 점이 있다. Grok Bot 사용자가 자기도 모르게 시험 중인 모델을 쓸 수 있다는 뜻이기 때문이다. 이 블로그의 [Grok Bot 토큰 청구서 노트](https://raphael-shin.github.io/jungseob-blog/posts/maestro-grok-bot-token-bill-12-settings/)나 [XCreators의 Grok Bot 안내서 노트](https://raphael-shin.github.io/jungseob-blog/posts/xcreators-grok-bot-guide-for-creators/)처럼 Grok Bot을 업무에 쓰는 이야기를 읽을 때, 같은 이름 아래에서도 모델이 바뀔 수 있다는 점을 함께 고려해야 한다. 같은 일을 해도 결과가 달라질 수 있고 평가를 다시 돌려야 할 이유가 된다. "문제를 풀었는가"를 데이터로 삼는 순환은 [YC Lightcone 노트](https://raphael-shin.github.io/jungseob-blog/posts/yc-lightcone-rise-of-ai-coworkers-grok-bot/)에서 Grok Bot 팀이 사용자 피드백으로 작은 버그를 자동으로 고친다고 한 이야기와도 이어진다. 학습 스택을 낮은 층부터 다시 쓴다는 대목은 [Inside xAI 노트](https://raphael-shin.github.io/jungseob-blog/posts/ghori-relentless-inside-xai/)와 함께 읽을 만하다.
 
